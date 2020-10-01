@@ -894,5 +894,11 @@ export default [
     animeName:'Mahouka Koukou no Rettousei',
     animeYear:2014,
     animeLink:'https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei'
+  },
+  {
+    animeEmoji:'⚔️👑💪🛡',
+    animeName:'Shingeki no Kyojin',
+    animeYear:2013,
+    animeLink:'https://myanimelist.net/anime/16498/Shingeki_no_Kyojin'
   }
 ];
